@@ -2,7 +2,9 @@
 
 > 경희대학교 컴퓨터공학과 MESL 연구실, 신입생교육자료 - 최신 해킹사례 분석 및 실습  
 
-## Practice 1) Trojan Horse  
+</br>
+
+## Practice 1. Trojan Horse  
 
 ### 시나리오  
 
@@ -24,6 +26,10 @@ Web page는 '시스템 보안 연구실 홈페이지'이며, PDF 파일은 '연�
   * Victim: Windows7   
 
 
+<br/>
+
 ***
+
+<br/>
 
 ## Practice 2)
