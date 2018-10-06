@@ -59,7 +59,7 @@ Web page는 '시스템 보안 연구실 홈페이지'이며, PDF 파일은 '연�
 이 백도어는 Webshell이다.  
 Webshell을 통해 이 연구실 홈페이지 화면을 변경하는 De-face 공격을 실행하자.  
 
-## 실습 환경  
+### 실습 환경  
 
 * Attacker: Windows7 VM  
 * Victim: Apache web server (Kali linux VM)  
@@ -70,7 +70,7 @@ Webshell을 통해 이 연구실 홈페이지 화면을 변경하는 De-face 공
 
 <br>
 
-### Practice 4. File Signature  
+## Practice 4. File Signature  
 
 ### 시나리오  
 
@@ -78,7 +78,7 @@ Webshell을 통해 이 연구실 홈페이지 화면을 변경하는 De-face 공
 해커들의 접견 장소가 나와있는 파일을 입수했으나, 파일이 손상되어 있다.
 이를 복구하여 접견 장소를 알아내자.  
 
-## 실습 환경  
+### 실습 환경  
 
 * PC: Kali linux VM  
 * Tool: bless  
