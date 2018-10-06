@@ -2,7 +2,7 @@
 
 > 경희대학교 컴퓨터공학과 MESL 연구실, 신입생교육자료 - 최신 해킹사례 분석 및 실습  
 
-</br>
+<br>
 
 ## Practice 1. Trojan Horse  
 
@@ -26,11 +26,11 @@ Web page는 '시스템 보안 연구실 홈페이지'이며, PDF 파일은 '연�
   * Victim: Windows7   
 
 
-<br/>
+<br>
 
 ***
 
-<br/>
+<br>
 
 ## Practice 2. Packet Analysis  
 
@@ -45,13 +45,13 @@ Web page는 '시스템 보안 연구실 홈페이지'이며, PDF 파일은 '연�
 * PC: Kali linux VM  
 * Tool: Wireshark  
 
-<br/>
+<br>
 
 ***  
 
-<br/>
+<br>
 
-## Practice3. Webshell  
+## Practice 3. Webshell  
 
 ### 시나리오  
 
@@ -64,10 +64,27 @@ Webshell을 통해 이 연구실 홈페이지 화면을 변경하는 De-face 공
 * Attacker: Windows7 VM  
 * Victim: Apache web server (Kali linux VM)  
 
-<br/>
+<br>
 
 ***
 
-<br/>
+<br>
 
+### Practice 4. File Signature  
 
+### 시나리오  
+
+포렌식 전문가가 되어, 해커들의 접견 장소를 알아내자.  
+해커들의 접견 장소가 나와있는 파일을 입수했으나, 파일이 손상되어 있다.
+이를 복구하여 접견 장소를 알아내자.  
+
+## 실습 환경  
+
+* PC: Kali linux VM  
+* Tool: bless  
+
+<br>
+
+***
+
+<br>
