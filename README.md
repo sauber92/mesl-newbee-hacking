@@ -157,10 +157,16 @@ Malware로 의심가는 실행 파일이 있다는 신고를 받고, 해당 파�
 
 ### 실습 환경  
 
-* PC: Windows7 VM  
+* PC: Windows XP VM  
 * Tool: OllyDbg  
 
 ### 실습 출처  
 CodeEngn - basic RCE  
 
 <br>
+
+***  
+
+### License  
+
+[MIT 라이센스](https://github.com/sauber92/mesl-newbee-hacking/blob/master/LICENSE)  
